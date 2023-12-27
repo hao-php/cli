@@ -1,0 +1,12 @@
+{
+    "name": "haoa/cli",
+    "description": "PHP CLI Interactive Commander",
+    "type": "library",
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "Haoa\\Cli\\": "src/"
+        }
+    },
+    "require": {}
+}
